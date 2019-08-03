@@ -1,28 +1,50 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div class="music">
+      <div class="music-top">
+        <coverPicture></coverPicture>
+        <list></list>
+      </div>
+      <div class="music-down">
+        <playBar />
+      </div>
+    </div>
+    <aaaaa></aaaaa>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+  import coverPicture from './components/coverPicture'
+  import list from './components/list'
+  import playBar from './components/playBar'
+  import aaaaa from './components/navbar'
 
-export default {
-  name: 'app',
-  components: {
-    HelloWorld
+  export default {
+    name: 'app',
+    components: {
+      coverPicture,
+      list,
+      playBar,
+      aaaaa,
+    },
   }
-}
 </script>
 
 <style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  @import "./assets/all.scss";
+
+  #app {
+    width: 100%;
+    display: flex;
+    .music {
+      width: calc(100% - 80px);
+      .music-top {
+        height: calc(100vh - 100px);
+        display: flex;
+      }
+      .music-down {
+        min-height: 100px;
+      }
+    }
+  }
 </style>
