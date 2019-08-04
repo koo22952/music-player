@@ -5,11 +5,9 @@
         <coverPicture></coverPicture>
         <list></list>
       </div>
-      <div class="music-down">
-        <playBar />
-      </div>
+      <playBar />
     </div>
-    <aaaaa></aaaaa>
+    <bar></bar>
   </div>
 </template>
 
@@ -17,7 +15,7 @@
   import coverPicture from './components/coverPicture'
   import list from './components/list'
   import playBar from './components/playBar'
-  import aaaaa from './components/navbar'
+  import bar from './components/navbar'
 
   export default {
     name: 'app',
@@ -25,7 +23,7 @@
       coverPicture,
       list,
       playBar,
-      aaaaa,
+      bar,
     },
   }
 </script>
@@ -41,9 +39,6 @@
       .music-top {
         height: calc(100vh - 100px);
         display: flex;
-      }
-      .music-down {
-        min-height: 100px;
       }
     }
   }

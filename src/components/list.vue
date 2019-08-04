@@ -50,6 +50,104 @@
             <img src="../assets/svg/heart-2.svg" alt />
           </td>
         </tr>
+        <!-- -------------------- -->
+        <tr>
+          <td></td>
+          <td>
+            <span>2</span>
+          </td>
+          <td>South of the Border</td>
+          <td>3:24</td>
+          <td>
+            <span>33,213</span>
+            <img src="../assets/svg/heart-2.svg" alt />
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <span>2</span>
+          </td>
+          <td>South of the Border</td>
+          <td>3:24</td>
+          <td>
+            <span>33,213</span>
+            <img src="../assets/svg/heart-2.svg" alt />
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <span>2</span>
+          </td>
+          <td>South of the Border</td>
+          <td>3:24</td>
+          <td>
+            <span>33,213</span>
+            <img src="../assets/svg/heart-2.svg" alt />
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <span>2</span>
+          </td>
+          <td>South of the Border</td>
+          <td>3:24</td>
+          <td>
+            <span>33,213</span>
+            <img src="../assets/svg/heart-2.svg" alt />
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <span>2</span>
+          </td>
+          <td>South of the Border</td>
+          <td>3:24</td>
+          <td>
+            <span>33,213</span>
+            <img src="../assets/svg/heart-2.svg" alt />
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <span>2</span>
+          </td>
+          <td>South of the Border</td>
+          <td>3:24</td>
+          <td>
+            <span>33,213</span>
+            <img src="../assets/svg/heart-2.svg" alt />
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <span>2</span>
+          </td>
+          <td>South of the Border</td>
+          <td>3:24</td>
+          <td>
+            <span>33,213</span>
+            <img src="../assets/svg/heart-2.svg" alt />
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <span>2</span>
+          </td>
+          <td>South of the Border</td>
+          <td>3:24</td>
+          <td>
+            <span>33,213</span>
+            <img src="../assets/svg/heart-2.svg" alt />
+          </td>
+        </tr>
+        <!-- ------------ -->
       </table>
     </div>
   </div>
